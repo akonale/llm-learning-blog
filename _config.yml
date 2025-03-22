@@ -28,7 +28,8 @@ twitter_username: akonale
 github_username:  akonale
 
 # Build settings
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: sighingnow/jekyll-gitbook
 plugins:
   - jekyll-feed
 
