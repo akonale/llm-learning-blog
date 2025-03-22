@@ -29,7 +29,7 @@ github_username:  akonale
 
 # Build settings
 #theme: jekyll-theme-minimal
-remote_theme: sighingnow/jekyll-gitbook
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
