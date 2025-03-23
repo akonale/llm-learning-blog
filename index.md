@@ -22,6 +22,7 @@ I am using Python for development, so most of the examples and implementations w
 
 ## 📖 Contents
 
-- [How I Started](docs/about.markdown)
+- [Getting Started](docs/quickstart/index.md)
+    - [Run models locally](docs/quickstart/local_setup.md)
 
 Stay tuned for more updates!

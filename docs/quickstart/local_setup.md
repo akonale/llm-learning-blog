@@ -1,6 +1,6 @@
 ---
 title: Run LLM locally
-parent: Quickstart
+parent: Getting Started
 nav_order: 2
 ---
 
